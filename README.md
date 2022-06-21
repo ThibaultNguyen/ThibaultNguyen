@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThibaultNguyen
-- 👀 I’m interested in working in Seoul, South Korea
+- 👀 I’m interested in working in South Korea
 - 🌱 I’m currently (re)learning the basics of java, angular, react, nodeJs by coding small projects
 - 💞️ I’m looking to collaborate on applications projects
 - 📫 How to reach me : - mail : thibault.nguyen@ecam-rennes.com
