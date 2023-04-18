@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ThibaultNguyen
-- 👀 I’m interested in working in everywhere.
 - 🌱 I’m currently (re)learning the basics of java, angular, spring by coding small projects
 - 📫 How to reach me : - mail : thibault.nguyen@ecam-rennes.com
 
